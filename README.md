@@ -1,9 +1,9 @@
 ## RSite
-a workspace to process [CytoESI](https://pubs.acs.org/doi/10.1021/acs.analchem.9b01419) data. The software was developed based on MATLAB 2019b
+a platform to process [CytoESI](https://pubs.acs.org/doi/10.1021/acs.analchem.9b01419) data. The software was developed based on MATLAB 2019b
 
 ### usage
 + add RSite folder as well as the sub-folders in MATLAB path
-+ type RSite to begin
++ type RSite to start
 
 ### develop new app
 + add a folder with the name of the app in Plugins folder
